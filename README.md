@@ -7,6 +7,7 @@ A list of awesome things related to Media Capture and Streams API
 
 ## Examples
 
+* [ImageCapture: experiment with sizes of `grabFrame()` and `takePhoto()` results](https://codepen.io/zmoki/pen/gxdEPv?editors=0011)
 * [ImageCapture: `grabFrame()` and invert grabbed frame](https://codepen.io/miguelao/pen/mAzXpN?editors=1010)
 
 ## Other
