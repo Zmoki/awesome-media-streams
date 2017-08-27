@@ -5,6 +5,10 @@ A list of awesome things related to Media Capture and Streams API
 
 * [Media Capture and Streams specification (aka `getUserMedia`)](https://w3c.github.io/mediacapture-main/)
 
+## Tutorials
+
+* [Facial Recognition With Tracking.js](http://www.instructables.com/id/Facial-Recognition-With-Trackingjs/)
+
 ## Examples
 
 * [ImageCapture: experiment with sizes of `grabFrame()` and `takePhoto()` results](https://codepen.io/zmoki/pen/gxdEPv?editors=0011)
