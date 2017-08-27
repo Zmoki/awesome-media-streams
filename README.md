@@ -3,11 +3,11 @@ A list of awesome things related to Media Capture and Streams API
 
 ## W3C Specifications
 
-* [Media Capture and Streams specification (aka getUserMedia)](https://w3c.github.io/mediacapture-main/)
+* [Media Capture and Streams specification (aka `getUserMedia`)](https://w3c.github.io/mediacapture-main/)
 
 ## Examples
 
-* [ImageCapture: grabFrame() and invert grabbed frame](https://codepen.io/miguelao/pen/mAzXpN?editors=1010)
+* [ImageCapture: `grabFrame()` and invert grabbed frame](https://codepen.io/miguelao/pen/mAzXpN?editors=1010)
 
 ## Other
 
